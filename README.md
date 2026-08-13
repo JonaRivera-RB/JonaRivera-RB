@@ -58,6 +58,12 @@ A Swift Package Manager library for executing web requests with async/await, pro
 
 **Work in progress.** An iOS fitness coaching app that uses Apple Watch data through HealthKit to evaluate recovery, rest, and sleep. It applies Apple's Foundation Models framework to generate personalized training guidance entirely on-device, keeping sensitive health data private.
 
+#### [MyMusicLoving](https://github.com/JonaRivera-RB/MyMusicLoving)
+
+A Chrome extension (Manifest V3) that adds the song from the YouTube video you are watching to a Spotify playlist in one click. Vanilla JavaScript and OAuth 2.0 with PKCE — no frameworks, no dependencies, no build step.
+
+It also serves as my baseline for evaluating agentic coding tools. The architecture, user stories, and engineering rules are specified up front, so the same well-defined codebase can be built and extended with **Claude Code**, **Cursor**, **Codex**, and **Kiro**, and the results compared on equal terms.
+
 ---
 
 ### Contact
